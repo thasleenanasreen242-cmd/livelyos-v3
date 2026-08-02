@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LivelyOS</string>
+    <string name="title_activity_main">LivelyOS</string>
+    <string name="package_name">com.livelyos.app</string>
+    <string name="custom_url_scheme">com.livelyos.app</string>
+</resources>
